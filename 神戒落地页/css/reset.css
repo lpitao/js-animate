@@ -1,0 +1,28 @@
+/*css代码重置*/
+@charset "utf-8";
+*{
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+body {
+	font: 14px "Microsoft YaHei", Arial, Helvetica, sans-serif;
+	color:#44454c;
+    margin:0;
+    padding:0;
+    background: #F1F1F1;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd {
+    margin:0;
+    padding:0;
+    border:none;
+    list-style:none;
+}
+input {border:none;}
+.lf   {float:left;}
+.rt   {float:right;}
+.clear{clear:both;}
+a       {color:#fff;text-decoration:none;}
+a:hover {color:#fff;text-decoration:none;}
+img{
+	border:none;
+}

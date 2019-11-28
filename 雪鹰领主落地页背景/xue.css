@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* 花瓣 */
+.page {
+    width: 1600px !important;
+    overflow: hidden;
+    height: 500px;
+    position: absolute;
+		min-width: 1000px;
+}

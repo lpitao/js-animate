@@ -1,0 +1,97 @@
+.page{
+	position:absolute;
+	top: 0;
+	height:500px;
+	z-index:99;
+	overflow: hidden;
+}
+.page>div{
+	width:30px;
+	height:30px;
+	background:url(1.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(2){
+	width:23px;
+	height:23px;
+	background:url(2.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(3){
+	width:23px;
+	height:23px;
+	background:url(3.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(4){
+	width:23px;
+	height:23px;
+	background:url(4.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(5){
+	width:23px;
+	height:23px;
+	background:url(5.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(6){
+	width:23px;
+	height:23px;
+	background:url(6.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(7){
+	width:23px;
+	height:23px;
+	background:url(7.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(8){
+	width:23px;
+	height:23px;
+	background:url(8.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(9){
+	width:23px;
+	height:23px;
+	background:url(9.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
+.page>div:nth-child(10){
+	width:23px;
+	height:23px;
+	background:url(10.png) top center no-repeat;
+	position:absolute;
+	top:0px;
+	right:0px;
+	border-radius:100%
+}
